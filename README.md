@@ -2,4 +2,4 @@
 What is a tyrion anyway?
 
 ## Docs
-see documentation [here](drunken-tyrion/nothing.txt)
+see documentation [here](nothing.txt)
