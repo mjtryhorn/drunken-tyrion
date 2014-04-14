@@ -1,8 +1,8 @@
 What is a tyrion anyway?
 
 Linked files:
-[Nothing](nothing.md)
-[Nothing](nothing.txt)
-<a href="drunken-tyrion/nothing.txt">will this work?</a>
-https://github.com/mjtryhorn/drunken-tyrion/raw/master/nothing.txt
+# Drunken-Tyrion
+What is a tyrion anyway?
 
+## myLib docs
+see documentation [here](drunken-tyrion/README.md)
